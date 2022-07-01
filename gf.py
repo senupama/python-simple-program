@@ -1,0 +1,2 @@
+import telebot
+telebot.TeleBot.send_location
